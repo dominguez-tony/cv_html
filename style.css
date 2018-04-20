@@ -1,0 +1,115 @@
+
+*
+{
+margin: 0;
+padding: 0;
+}
+body
+{
+  background-color: rgba(0, 0, 0, 0.959);
+  height: 900px;
+  width: auto;
+}
+header 
+{
+  background-color: darkorange;
+  height: 100px;
+  margin-bottom: 30px;
+}
+h1
+{
+  color: black;
+  text-align: center;
+ font-size: 50px;
+ padding-top: 15px;
+}
+h2
+{
+  font-size: 30px;
+  color: darkorange;
+
+  width: 200px;
+  margin-bottom: 15px;
+
+}
+.menu
+{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.etudes
+{
+  border: 3px solid;
+  height: 200px;
+  width: 1800px;
+  margin-left: 30px;
+  color: white;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.competences
+{
+  border: 3px solid;
+  height: 250px;
+  width: 1800px;
+  margin-left: 30px;
+  color: white;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.loisirs
+{
+  border: 3px solid;
+  height: 150px;
+  width: 1800px;
+  margin-left: 30px;
+  color: white;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.contact
+{
+  border: 3px solid;
+  height: 175px;
+  width: 1800px;
+  margin-left: 30px;
+  color: white;
+  margin-bottom: 20px;
+  text-align: center;
+
+}
+.menu1
+{
+  border: 1px solid;
+  color: white;
+}
+h3
+{
+
+  font-size: 20px;
+  color: white;
+  margin-top: 5px;
+ 
+  
+}
+footer a,p
+{
+  color: darkorange;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+.loisirs p
+{
+  margin-top: 10px;
+  padding-top: 10px;
+}
+.competences p
+{
+  color: darkorange;
+}
+.etudes p
+{
+  color: darkorange;
+}
